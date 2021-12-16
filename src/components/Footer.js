@@ -3,7 +3,7 @@ const Footer = () => {
     <section className="footer section">
       <div className="footer__container container grid">
         <div className="footer__content">
-          <a href="#" className="footer__logo">Source</a>
+          <a href="#" className="footer__logo">Source code</a>
         </div>
       </div>
     </section>
